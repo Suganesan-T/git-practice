@@ -1,0 +1,11 @@
+git commands:
+git init
+git remote add origin
+git origin -v
+git add .
+git config --global user.name "user name"
+git config --global user.email "user email"
+git commit -m
+git branch -M main
+git push origin main 
+today
